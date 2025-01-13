@@ -9,7 +9,6 @@ Upload any file and check the **Details** Tab for **MD5**, **SHA-1**, **SHA-256*
 ## file
 
 ```bash
-file <your_file_here>
 # mime type
 file -i <your_file_here>
 ```
